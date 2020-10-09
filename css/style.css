@@ -2909,7 +2909,7 @@ Google map
 }
 
 /* Other additions */
-vimeo-wrapper {
+.vimeo-wrapper {
   position: fixed;
   top: 0;
   left: 0;
